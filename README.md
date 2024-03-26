@@ -57,8 +57,8 @@ This app allows the user to see what food is at each dining hall per day. Allows
 **Tab Navigation** (Tab to Screen)
 
 * Home Feed
-* [fill out your second tab]
-* [fill out your third tab]
+* Search
+* Balance
 
 **Flow Navigation** (Screen to Screen)
 
